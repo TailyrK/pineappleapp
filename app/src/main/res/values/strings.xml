@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pineapple App</string>
+    <string name="yourScore">Your Score %1$d</string>
+    <string name="timeLeft">Time Left: %1$d</string>
+    <string name="TapMe">Tap Me</string>
+    <string name="gameOverMessage">adam says pineapples are good </string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Pineapple App</string>
+    <string name="aboutMessage">Created by The Mighty Koltin Developer</string>
+    <string name="pineapplebutton">pineappleButton</string>
+</resources>
